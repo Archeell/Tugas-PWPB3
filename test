@@ -1,0 +1,3 @@
+style="background-image: url({{ asset('storage/uploads/image/header/'.$getHeader->image ?? 'gambar' ) }}
+
+ src="{{ asset('storage/uploads/image/about/'.$getAbout->image ?? 'gambar' ) }}"
