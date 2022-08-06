@@ -14,10 +14,10 @@ Lalu ketik command dibawah ini
 Untuk Login tambahkan '/login' pada penelusuran browser
 
 Email dan Password pada halaman Login
-Email : admin@gmail.com
-Password : password
+- Email : admin@gmail.com
+- Password : password
 
 tambahan :
-- Setelah memasuki dashboard admin, silakah tambahkan 'admin/about' untuk ke halam crud about
-- Setelah memasuki dashboard admin, silakah tambahkan 'admin/portfolio' untuk ke halam crud portfolio
-- Setelah memasuki dashboard admin, silakah tambahkan 'admin/skill' untuk ke halam crud skill
+- Setelah memasuki dashboard admin, silakah tambahkan 'admin/about' untuk ke halaman crud about
+- Setelah memasuki dashboard admin, silakah tambahkan 'admin/portfolio' untuk ke halaman crud portfolio
+- Setelah memasuki dashboard admin, silakah tambahkan 'admin/skill' untuk ke halaman crud skill
